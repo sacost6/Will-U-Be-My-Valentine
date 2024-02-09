@@ -34,7 +34,7 @@
 .main-animation.transitioned {
   height: 200px;
   width: 200px;
-  transform: translateY(-225px);
+  transform: translateY(-175px);
 }
 
 .buttons-container {
