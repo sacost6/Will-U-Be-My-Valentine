@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import './App.css'
 import { DotLottiePlayer } from '@dotlottie/react-player'
-import { Button, TextField, Typography } from '@mui/material';
+import { Button, Typography } from '@mui/material';
 
 const decisionButton = {
   color: 'white',
